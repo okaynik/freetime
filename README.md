@@ -1,6 +1,6 @@
-# calendar
+# FreeTime
 
-A new Flutter application.
+https://youtu.be/J6FoQOFzDgs
 
 ## Getting Started
 
